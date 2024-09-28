@@ -1,4 +1,4 @@
-# Admin Panel with User Management and Analytics
+# Admin Panel with User Management and Analytics (Made for Omara's Internship Assignemnt)
 
 ## Overview
 
@@ -80,10 +80,5 @@ The project uses the following API endpoints (simulated by JSON Server):
 - `PUT /users/:id`: Update an existing user
 - `DELETE /users/:id`: Delete a user
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
 
 This project is open source and available under the [MIT License](LICENSE).
